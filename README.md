@@ -12,6 +12,8 @@ https://api.tfl.gov.uk/swagger/ui/index.html?url=/swagger/docs/v1#!/Line/Line_Ge
 
 You will see that all the line status requests will take the following format: 
 
-
+````
+https://api.tfl.gov.uk/Line/{INSERT_LINE_NAME}/ Status?app_id={INSERT_YOUR_APP_ID}&app_key={INSERT_APP_KEY}
+````
 
 
